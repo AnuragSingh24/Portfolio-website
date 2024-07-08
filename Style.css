@@ -779,7 +779,7 @@ footer{
    .skill-heading{
     font-size: 40px;
    }
-  .skills-container{
+   .skills-container{
     width: 100vh;
     display: flex;
     flex-direction: column;
