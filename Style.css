@@ -779,5 +779,21 @@ footer{
    .skill-heading{
     font-size: 40px;
    }
+  .skills-container{
+    width: 100vh;
+    display: flex;
+    flex-direction: column;
+   }
+   .skill-subHeading{
+       font-size: 1rem;
+       padding-right: 100px;
+   }
+   .skill-container-right{
+    /* width: 100%; */
+    padding-right: 150px;
+   }
+   .blob-style{
+     padding-right: 100px;
+   }
   
 }
